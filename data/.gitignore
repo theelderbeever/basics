@@ -1,1 +1,4 @@
 /data.xml
+/train.csv
+/test.csv
+/gender_submission.csv
