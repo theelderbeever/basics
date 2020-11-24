@@ -3,3 +3,4 @@
 ['remote "basics"']
     url = s3://basics
     endpointurl = http://localhost:9000
+    profile = minio-local
