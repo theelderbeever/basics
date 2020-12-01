@@ -26,6 +26,7 @@ repos:
     - commit
   - id: dvc-pre-push
     language_version: python3
+    additional_dependencies: [ "boto3" ]
     stages:
     - push
   - id: dvc-post-checkout
